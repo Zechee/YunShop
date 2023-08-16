@@ -1,21 +1,17 @@
-<h1>云想商城 - YunShop<h1>
+云想商城 - Storeyx
 
-<p align="center">
-    <img alt="YunShop Logo" src="https://yourimagelinkhere.com" width="602" height="175" style="margin-bottom: 10px;">
-</p>
-<div align="center">
-<h3 align="center">云想商城（YunShop）</h3>
-<h4 align="center">基于 CoreShop 的可视化布局 .NET 商城系统</h4>
 
-</div>
+云想商城（Storeyx）- 基于 CoreShop 的可视化布局 .NET 商城系统
+
+
 
 
 
 项目介绍
-云想商城（YunShop） 是基于 Asp.Net 7.0 和 Uni-App 开发的小程序商城系统，支持可视化布局。该项目是在 CoreShop 的基础上开发的，旨在提供一个功能丰富、灵活扩展的商城系统。该系统拥有分销、代理、团购秒杀、接龙、拼团、直播、优惠券、自定义表单等多种营销功能，同时支持完整的 SKU、下单、售后、物流流程，以及可视化自定义首页模块布局。
+云想商城（Storeyx） 是基于 Asp.Net 7.0 和 Uni-App 开发的小程序商城系统，支持可视化布局。该项目是在 CoreShop 的基础上开发的，旨在提供一个功能丰富、灵活扩展的商城系统。该系统拥有分销、代理、团购秒杀、接龙、拼团、直播、优惠券、自定义表单等多种营销功能，同时支持完整的 SKU、下单、售后、物流流程，以及可视化自定义首页模块布局。
 
 主要功能
-云想商城（YunShop）提供了丰富的功能，包括但不限于：
+云想商城（Storeyx）提供了丰富的功能，包括但不限于：
 
 商品管理：支持单规格和多规格商品，品牌、分类管理，商品属性、参数及类型管理，商品评价。
 订单管理：处理订单支付、发货、取消、售后等，划分发货单、提货单、售后单、退款单，支持在线打印购物单、配送单等。
@@ -55,8 +51,6 @@ Redis 5.0+
 支持 HTTPS 的域名
 可选阿里云 OSS / 腾讯云 COS
 可选易联云网络打印机
-安装和文档
-详细的安装步骤和说明文档，请参考官方网站 https://www.yourwebsitelinkhere 或加入 QQ 群【yourqqgrouplinkhere】获取。
 
 
 特别声明：
